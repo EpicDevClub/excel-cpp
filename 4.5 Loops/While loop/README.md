@@ -1,0 +1,1 @@
+In while loop, we first have to write the condition in braces, then the body of the loop is written. The program is simply executed depending upon the condition provided.

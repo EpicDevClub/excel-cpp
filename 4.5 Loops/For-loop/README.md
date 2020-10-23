@@ -1,0 +1,1 @@
+For-loop has a very easy and simply understandable syntax. You just have to initialize a variable or just assign it a value if it is already initialized, then you have to provide the no.of time the loop will repeat and then you have to provide increment or difference of each loop cycle.
