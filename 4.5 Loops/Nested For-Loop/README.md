@@ -1,0 +1,1 @@
+Nested For-loops are used for making patterns of different types, some of which are given as examples in this folder. We can create patterns of our own choice depending on our needs. For making patterns, For-loop is mostly used because of it's easily understandable syntax. 
