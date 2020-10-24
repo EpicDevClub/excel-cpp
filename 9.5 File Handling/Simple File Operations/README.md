@@ -1,0 +1,1 @@
+File handling is a very important topic in C++. Understanding this topic is not difficult at all. We just have to add one header file <fstream> which will cover both reading and writing the file. For writing anything in the file, ofstream command is used while ifstream command is used for reading any file.
