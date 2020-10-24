@@ -1,0 +1,1 @@
+A pointer can be said as a variable which stores memmory address of its value. A pointer variable variable poinys to a data type(like int or string) of the same type, and is created with * operater. The address of the variable you are working with is assigned to the pointer. Use the & operater to store the memory address of the variable.
