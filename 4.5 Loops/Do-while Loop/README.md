@@ -1,0 +1,1 @@
+In the Do-while loop, first loop cycles executes even if the condition is wrong. Then the condition is checked and the program is executed according to the condition. We just ahve to write the body of the loop in the Do portion and the condition in the while portion in braces.
