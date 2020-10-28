@@ -1,0 +1,1 @@
+Inheritance in OOP is a way of creating a derived class from a parent class. This derived class can access all the protected and public members of the parent class.

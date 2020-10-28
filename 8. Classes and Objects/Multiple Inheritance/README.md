@@ -1,0 +1,1 @@
+In multiple Inheritance, we create a derived class out of two parent classes, which means that this derived class can access the protected and public members of both parent classes.

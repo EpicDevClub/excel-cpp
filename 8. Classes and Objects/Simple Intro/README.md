@@ -1,0 +1,1 @@
+Classes and objects in C++ are the way of creating the concept of object oriented programming. There are many advantages of OOP like Inheritance, Encapsulation and code reusability etc.
