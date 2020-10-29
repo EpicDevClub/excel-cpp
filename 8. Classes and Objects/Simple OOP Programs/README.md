@@ -1,0 +1,1 @@
+If we want to be good at programming and if we want our code to be free from errors, we have to apply OOP approach in our codes. In this way our program will cover less space and it will be more reliable.
