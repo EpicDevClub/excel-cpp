@@ -38,7 +38,7 @@ int main()
 		printf("Addition is: %d\n",addition);
 
 		
-	}while(true);
+	}while(false);
 	return 0;
 
 }
